@@ -6,4 +6,4 @@ Total is 265 classes data public on kaggle
 #### step3: python test.py
 
 ```torch version 1.7.1```
-# Author: VanDung
+
